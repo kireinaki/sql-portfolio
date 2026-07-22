@@ -1,7 +1,6 @@
-
 Objective: Analyze the relationship between social media use and student well-being.
 
-Dataset: Link to the Kaggle dataset.
+Dataset: https://www.kaggle.com/datasets/shivasingh4945/student-social-media-and-mental-health-impact
 
 Tools: PostgreSQL, DBeaver, Tableau Public.
 
